@@ -52,12 +52,4 @@
   <a href="mailto:yannyao4066@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
-<h2>📈 &nbsp;Some Github Stats</h2>
-<span align="left">
 
-![YAO KOUADIO YANN EVRARD 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aymar750&show_icons=true&hide_border=true&bg_color=152238&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
-<span align="right">
-
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aymar750&hide_border=true&theme=black-ice&background=152238&stroke=00E6FE)
-</span>
