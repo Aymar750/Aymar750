@@ -12,7 +12,7 @@
     https://flagcdn.com/48x36/ci.png 3x"
   width="16"
   height="12"
-  alt="Ivory Coast"> <b>Abidjan, Ivory Coast</b>.</p>
+  alt="Ivory Coast"> <b>Abidjan,Ivory Coast</b>.</p>
   	
   💡 &nbsp;I love the outdoors but you'll probably find me sitted somewhere typing away some code.\
   🚧 &nbsp;I'm currently doing awesome projects at <a href="https://yannaymar.com" target="_blank"><u>ATOS</u></a> \
