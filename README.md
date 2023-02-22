@@ -6,7 +6,7 @@
 <img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="#">
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Kouadio Yann Evrard YAO, Apps Developer (Web Apps and Android Apps) from <img
+  I'm Kouadio Yann Evrard YAO A.K.A Aymar, Apps Developer (Web Apps and Android Apps) from <img
   src="https://flagcdn.com/16x12/ci.png"
   srcset="https://flagcdn.com/32x24/ci.png 2x,
     https://flagcdn.com/48x36/ci.png 3x"
