@@ -1,6 +1,6 @@
 
 
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Kouadio Yann Evrard YAO</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Kouadio Yann Evrard YAO A.K.A AYMAR</b>
 <br>
 
 - 💬 Ask me about : **All I want is to collect skills**
